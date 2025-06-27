@@ -40,7 +40,7 @@ cyberbullying-detector/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/cyberbullying-detector.git
+   git clone https://github.com/aloneLizard10/cyberbullying-detector.git
    cd cyberbullying-detector
 2. Create & activate virtual environment:
     python -m venv venv
