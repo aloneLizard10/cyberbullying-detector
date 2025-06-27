@@ -2,7 +2,6 @@ import streamlit as st
 import joblib
 
 # Load model
-model = joblib.load("cyberbullying_model.pkl")
 import os
 
 MODEL_PATH = os.path.join(os.path.dirname(__file__), 'cyberbullying_model.pkl')
